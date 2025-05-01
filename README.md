@@ -1,12 +1,14 @@
-<h2 align="left"></h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidsmartz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidsmartz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sidsmartz&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sidsmartz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidsmartz&radius=16&theme=redical&area=true&order=5" height="200" alt="activity-graph graph"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidsmartz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="170" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sidsmartz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sidsmartz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&custom_title=Stuff%20I've%20done" height="150" alt="languages graph"  />
-</div>
+<h2 align="left"></h2>
 
 ###
 
@@ -76,23 +78,6 @@
 
 ###
 
-<div align="center">
-  <a href="instagram.com/sidsmartz._.gamez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
-  </a>
-  <a href="Sidsmartz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
-  </a>
-  <a href="siddhartht4206@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Snake animation" />
@@ -102,6 +87,20 @@
 <div align="center">
   <a href="https://open.spotify.com/user/31skmyap3udyimctjclzbjjm6o54">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31skmyap3udyimctjclzbjjm6o54&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/sidsmartz._.gamez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  </a>
+  <a href="Sidsmartz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
   </a>
 </div>
 
