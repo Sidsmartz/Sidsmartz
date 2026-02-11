@@ -1,4 +1,4 @@
-<div>
+<img width="758" height="970" alt="image" src="https://github.com/user-attachments/assets/87253904-beae-4ef0-9f59-6402ed724fd1" /><div>
   <h1>About Me</h1>
   <h3 color="red">Trying to learn and grow while contributing something with my set of skills in Web/App Development, Machine Learning and 3D Stuff.</h3>
 </div>
@@ -84,6 +84,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Snake animation" />
+<img width="758" height="970" alt="image" src="https://github.com/user-attachments/assets/41697f92-53fb-4e45-a59f-deae03d6a919" />
 
 ###
 
