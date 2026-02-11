@@ -3,18 +3,10 @@
 </div>
 
 <div align="center">
-//Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidsmartz&show_icons=true&locale=en" alt="sidsmartz" /></p>
-  
-#Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidsmartz&show_icons=true&locale=en&layout=compact" alt="sidsmartz" /></p>
-
-#Streak Graph  
 <img src="https://streak-stats.demolab.com?user=Sidsmartz&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   
 #trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidsmartz" alt="sidsmartz" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sidsmartz)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
 <h2 align="left"></h2>
