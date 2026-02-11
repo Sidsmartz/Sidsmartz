@@ -82,6 +82,7 @@
 ###
 
 <br clear="both">
+![Sidsmartz-space-shooter](https://github.com/user-attachments/assets/35f32440-fb37-41b0-b07a-e53a78970070)
 
 <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Snake animation" />
 
