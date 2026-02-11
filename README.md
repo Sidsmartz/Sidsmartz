@@ -84,7 +84,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Snake animation" />
-<img width="758" height="970" alt="image" src="https://github.com/user-attachments/assets/41697f92-53fb-4e45-a59f-deae03d6a919" />
 
 ###
 
