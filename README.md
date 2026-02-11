@@ -4,9 +4,11 @@
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Sidsmartz&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  
-#trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sidsmartz)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sidsmartz&theme=radical&no-frame=true&no-bg=true" />
+</div>
+
 ###
 
 <h2 align="left"></h2>
