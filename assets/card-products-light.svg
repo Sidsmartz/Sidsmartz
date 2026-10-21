@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="PRODUCTS: 4,000+ students use Edmit">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="210" viewBox="0 0 300 210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="PRODUCTS: 4,000+ users on Edmit, a campus platform">
 <rect x="0.5" y="0.5" width="299" height="209" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
 <rect x="20" y="0.5" width="40" height="3" rx="1.5" fill="#0969da"/>
 <text x="20" y="32" font-size="11" font-weight="700" letter-spacing="1.4" fill="#0969da">PRODUCTS</text>
-<text x="20" y="74" font-size="34" font-weight="700" fill="#1f2328">4,000+</text>
-<text x="20" y="96" font-size="13" fill="#59636e">students use Edmit</text>
+<text x="20" y="74" font-size="34" font-weight="700" fill="#1f2328">4,000+<tspan dx="6" font-size="15" font-weight="600" fill="#59636e">users</tspan></text>
+<text x="20" y="96" font-size="13" fill="#59636e">on Edmit, a campus platform</text>
 <line x1="20" y1="113" x2="280" y2="113" stroke="#d8dee4"/>
 <circle cx="26" cy="136" r="3" fill="#0969da"/><text x="38" y="140" font-size="13" font-weight="600" fill="#1f2328">FiB – Finance Buddy</text><text x="38" y="156" font-size="12" fill="#59636e">Offline-first finance app, Google Play</text><circle cx="26" cy="172" r="3" fill="#0969da"/><text x="38" y="176" font-size="13" font-weight="600" fill="#1f2328">Edmit</text><text x="38" y="192" font-size="12" fill="#59636e">Fees and course registration platform</text>
 </svg>
