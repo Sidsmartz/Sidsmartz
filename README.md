@@ -6,8 +6,8 @@
 
 <a href="https://sidsportfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
-<a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-20%2B%20merged%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="20+ merged PRs to freeCodeCamp" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Sidsmartz"><img src="https://img.shields.io/badge/Google%20Play-Sidsmartz-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Sidsmartz on Google Play" /></a>
+<a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-20%2B%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="20+ merged PRs to freeCodeCamp" /></a>
+<a href="https://play.google.com/store/apps/developer?id=Sidsmartz"><img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Sidsmartz on Google Play" /></a>
 <img src="https://sidsmartz-views.views-counter.workers.dev/" alt="Profile views" />
 
 </div>
@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-<a href="https://sidsportfolio-psi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-about-dark.svg" /><img src="assets/card-about-light.svg" width="97%" alt="About: B.Tech CSE (IT) at MLR Institute of Technology, Hyderabad, class of 2027. Full-stack and mobile developer, mentor to 250+ students, open to SDE roles." /></picture></a>
+<a href="https://sidsportfolio-psi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-about-dark.svg" /><img src="assets/card-about-light.svg" width="97%" alt="About: Full-stack developer who ships web, mobile and game projects to real users. Mentored 250+ students at MLRIT. Based in Hyderabad, open to SDE roles." /></picture></a>
 </p>
 
 <p align="center">
@@ -26,9 +26,10 @@
 
 <br/>
 
-<h3 align="center">Tech stack</h3>
+<h2 align="center">Tech stack</h2>
 
-<p align="center"><sub><b>LANGUAGES</b></sub><br/>
+<h4 align="center">Languages</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -37,7 +38,8 @@
 <img src="assets/csharp.svg" alt="C#" />
 </p>
 
-<p align="center"><sub><b>FRONTEND &amp; MOBILE</b></sub><br/>
+<h4 align="center">Frontend &amp; Mobile</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -45,10 +47,10 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 </p>
 
-<p align="center"><sub><b>BACKEND &amp; DATABASES</b></sub><br/>
+<h4 align="center">Backend &amp; Databases</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -58,7 +60,8 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-<p align="center"><sub><b>ML &amp; AI</b></sub><br/>
+<h4 align="center">ML &amp; AI</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -66,7 +69,8 @@
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
-<p align="center"><sub><b>CLOUD &amp; DEVOPS</b></sub><br/>
+<h4 align="center">Cloud &amp; DevOps</h4>
+<p align="center">
 <img src="assets/aws.svg" alt="AWS" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -74,7 +78,8 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-<p align="center"><sub><b>GAMES &amp; TOOLS</b></sub><br/>
+<h4 align="center">Games &amp; Tools</h4>
+<p align="center">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -82,13 +87,12 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 <br/>
 
-<h3 align="center">Activity</h3>
+<h2 align="center">Activity</h2>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sidsmartz&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api?username=Sidsmartz&show_icons=true&hide_rank=true&theme=default&hide_border=true" height="165" alt="GitHub stats" /></picture>
