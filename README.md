@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-15%2B%20merged%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp merged PRs" /></a>
   <a href="https://play.google.com/store/apps/developer?id=Sidsmartz"><img src="https://img.shields.io/badge/Google%20Play-Sidsmartz-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Sidsmartz on Google Play" /></a>
-  <img src="https://hits.sh/github.com/Sidsmartz.svg?style=for-the-badge&label=Profile%20views&color=36bcf7" alt="Profile views" />
+  <img src="https://sidsmartz-views.views-counter.workers.dev/" alt="Profile views" />
 </p>
 
 ## 👋 About me
