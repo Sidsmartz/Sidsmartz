@@ -1,110 +1,78 @@
-<h1>About Me</h1>
-  <h3 color="red">Trying to learn and grow while contributing something with my set of skills in Web/App Development, Machine Learning and 3D Stuff.</h3>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Siddharth%20T%20S&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="Siddharth T S" />
+</p>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Sidsmartz&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Full-stack+developer+%7C+React+%C2%B7+Next.js+%C2%B7+React+Native;15%2B+merged+PRs+to+freeCodeCamp;Built+Edmit+for+4%2C000%2B+students;Shipped+FiB+%E2%80%93+Finance+Buddy+on+Google+Play" alt="Typing intro" /></a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Sidsmartz)
+<p align="center">
+  <a href="https://sidsportfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-15%2B%20merged%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp merged PRs" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fib.financebuddy"><img src="https://img.shields.io/badge/Google%20Play-FiB-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="FiB on Google Play" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Sidsmartz&color=36bcf7&style=for-the-badge&label=Profile+views" alt="Profile views" />
+</p>
 
+## 👋 About me
 
-###
+- 🎓 B.Tech CSE (IT) at MLR Institute of Technology, Hyderabad, graduating 2027
+- 🌱 Contributing to freeCodeCamp's curriculum: [15+ merged PRs](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged)
+- 🚀 Built **Edmit**, an academic workflow platform used by 4,000+ students
+- 📱 Shipped **[FiB – Finance Buddy](https://play.google.com/store/apps/details?id=com.fib.financebuddy)**, an offline-first finance tracker on Google Play
+- 🧑‍🏫 Mentored 250+ students at MLRIT's Centre for Innovation & Entrepreneurship
+- 💼 Open to SDE roles
 
-<h2 align="left"></h2>
+## 🛠️ Tech stack
 
-###
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cs" alt="Python, JavaScript, TypeScript, Java, C, C#" />
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVtamZlazZhbHpnbGNremZ2bnZha3ZlamUzYmJrbnd3YjloN281NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6GmiEj9QsrAKA/giphy.gif"  />
+**Frontend & Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,flutter,androidstudio" alt="React, Next.js, Tailwind CSS, Three.js, Flutter, Android Studio" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 
-###
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,postgres,supabase,firebase,sqlite" alt="Node.js, Flask, MongoDB, PostgreSQL, Supabase, Firebase, SQLite" />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="30" alt="blender logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3&logoColor=black&style=for-the-badge" height="30" alt="d3js logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="30" alt="unrealengine logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-</div>
+**ML & AI**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-###
+**Cloud, DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,github,postman,figma,unity,blender,arduino" alt="AWS, GCP, Docker, Vercel, Cloudflare, Git, GitHub, Postman, Figma, Unity, Blender, Arduino" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 
-<br clear="both">
-<img src="https://github.com/user-attachments/assets/35f32440-fb37-41b0-b07a-e53a78970070" alt="Space Shooter Sidsmartz Contribution 11-02-26">
+## 🚀 Featured work
 
-<img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Snake animation" />
+**Edmit**: full-stack academic workflow platform for fee submission, verification and course registration, used by 4,000+ students. *Next.js · Supabase · AWS EC2*
 
-###
+<p align="center">
+  <a href="https://github.com/Sidsmartz/FiB-FinanceBuddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=FiB-FinanceBuddy&theme=tokyonight&hide_border=true" alt="FiB-FinanceBuddy" /></a>
+  <a href="https://github.com/Sidsmartz/Fishy_MGIT_HackSavvy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=Fishy_MGIT_HackSavvy&theme=tokyonight&hide_border=true" alt="Fishy" /></a>
+  <a href="https://github.com/Sidsmartz/SIH---Traffic-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=SIH---Traffic-Management-System&theme=tokyonight&hide_border=true" alt="Smart Traffic Management System" /></a>
+  <a href="https://github.com/Sidsmartz/openchallenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=openchallenge&theme=tokyonight&hide_border=true" alt="openchallenge" /></a>
+</p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31skmyap3udyimctjclzbjjm6o54">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31skmyap3udyimctjclzbjjm6o54&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+## 🌍 Open source
 
-###
+<p align="center">
+  <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&theme=tokyonight&hide_border=true" alt="freeCodeCamp" /></a>
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/sidsmartz._.gamez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
-  </a>
-  <a href="Sidsmartz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="20" alt="discord logo"  />
-  </a>
-</div>
+Curriculum fixes, test corrections and accessibility work across freeCodeCamp's Front End Libraries and JavaScript certifications. [See my merged PRs →](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged)
 
-###
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidsmartz&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsmartz&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt="" />
+</p>
