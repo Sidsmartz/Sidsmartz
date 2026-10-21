@@ -105,21 +105,6 @@ Open to SDE roles.
 
 <br/>
 
-<h3 align="center">Selected work</h3>
-
-<p align="center">
-  <a href="https://github.com/Sidsmartz/FiB-FinanceBuddy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=FiB-FinanceBuddy&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=FiB-FinanceBuddy&theme=default&hide_border=true" alt="FiB – Finance Buddy" /></picture></a>
-  <a href="https://github.com/Sidsmartz/Fishy_MGIT_HackSavvy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=Fishy_MGIT_HackSavvy&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=Fishy_MGIT_HackSavvy&theme=default&hide_border=true" alt="Fishy" /></picture></a>
-  <a href="https://github.com/Sidsmartz/SIH---Traffic-Management-System"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=SIH---Traffic-Management-System&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=SIH---Traffic-Management-System&theme=default&hide_border=true" alt="Smart Traffic Management System" /></picture></a>
-  <a href="https://github.com/Sidsmartz/openchallenge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=openchallenge&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sidsmartz&repo=openchallenge&theme=default&hide_border=true" alt="openchallenge" /></picture></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&theme=github_dark&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=freeCodeCamp&repo=freeCodeCamp&theme=default&hide_border=true" alt="freeCodeCamp" /></picture></a>
-</p>
-
-<br/>
-
 <h3 align="center">Activity</h3>
 
 <p align="center">
