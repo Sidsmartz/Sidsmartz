@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Siddharth%20T%20S&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Open%20Source%20Contributor&descAlignY=58&descSize=18" width="100%" alt="Siddharth T S" />
-</p>
+<h1 align="center">Hi, I'm Siddharth 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Full-stack+developer+%7C+React+%C2%B7+Next.js+%C2%B7+React+Native;15%2B+merged+PRs+to+freeCodeCamp;Built+Edmit+for+4%2C000%2B+students;Shipped+FiB+%E2%80%93+Finance+Buddy+on+Google+Play" alt="Typing intro" /></a>
@@ -8,7 +6,7 @@
 
 <p align="center">
   <a href="https://sidsportfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-15%2B%20merged%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp merged PRs" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.fib.financebuddy"><img src="https://img.shields.io/badge/Google%20Play-FiB-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="FiB on Google Play" /></a>
   <img src="https://komarev.com/ghpvc/?username=Sidsmartz&color=36bcf7&style=for-the-badge&label=Profile+views" alt="Profile views" />
@@ -26,22 +24,56 @@
 ## 🛠️ Tech stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,cs" alt="Python, JavaScript, TypeScript, Java, C, C#" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="assets/csharp.svg" alt="C#" />
 
 **Frontend & Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,flutter,androidstudio" alt="React, Next.js, Tailwind CSS, Three.js, Flutter, Android Studio" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 
 **Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,postgres,supabase,firebase,sqlite" alt="Node.js, Flask, MongoDB, PostgreSQL, Supabase, Firebase, SQLite" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 **ML & AI**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 
-**Cloud, DevOps & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,cloudflare,git,github,postman,figma,unity,blender,arduino" alt="AWS, GCP, Docker, Vercel, Cloudflare, Git, GitHub, Postman, Figma, Unity, Blender, Arduino" />
+**Cloud & DevOps**<br/>
+<img src="assets/aws.svg" alt="AWS" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 ## 🚀 Featured work
 
@@ -69,10 +101,12 @@ Curriculum fixes, test corrections and accessibility work across freeCodeCamp's 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidsmartz&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 </p>
 
+## 🎮 Contributions
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Contribution snake" />
+  <img src="assets/space-shooter.gif" alt="Space shooter playing through my contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
