@@ -4,15 +4,14 @@
 
 <p><b>Full-stack developer</b> &nbsp;·&nbsp; <b>Open-source contributor</b> &nbsp;·&nbsp; <b>Indie game developer</b></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=Building+web+and+mobile+products;20%2B+merged+PRs+to+freeCodeCamp;Shipping+indie+games+on+Google+Play" alt="Building web and mobile products, contributing to freeCodeCamp, shipping indie games" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&height=36&lines=Building+web+and+mobile+products;20%2B+merged+PRs+to+freeCodeCamp;Shipping+indie+games+on+Google+Play" alt="Building web and mobile products, contributing to freeCodeCamp, shipping indie games" /></a>
 
-<br/><br/>
+<br/>
 
 <a href="https://sidsportfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
 <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-20%2B%20merged%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="20+ merged PRs to freeCodeCamp" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Sidsmartz"><img src="https://img.shields.io/badge/Google%20Play-Sidsmartz-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Sidsmartz on Google Play" /></a>
-<img src="https://sidsmartz-views.views-counter.workers.dev/" alt="Profile views" />
 
 </div>
 
@@ -26,20 +25,11 @@ I build web and mobile products, contribute to open source, and make small games
 Open to SDE roles.
 </p>
 
-<div align="center">
-<table>
-  <tr>
-    <th align="center" width="33%">Products</th>
-    <th align="center" width="33%">Open source</th>
-    <th align="center" width="33%">Games</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top"><b>Edmit</b>: academic workflow platform used by 4,000+ students<br/><br/><a href="https://play.google.com/store/apps/details?id=com.fib.financebuddy"><b>FiB – Finance Buddy</b></a>: offline-first finance tracker on Google Play</td>
-    <td align="center" valign="top"><a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><b>20+ merged PRs</b></a> to freeCodeCamp's curriculum: tests, accessibility and lesson fixes<br/><br/>Mentored 250+ students at MLRIT's Centre for Innovation &amp; Entrepreneurship</td>
-    <td align="center" valign="top"><a href="https://play.google.com/store/apps/details?id=com.capybara.csq"><b>Capybara Space Quest</b></a>: out now on Google Play<br/><br/><b>BeatHop</b> and <b>Pen Fight</b>: in development</td>
-  </tr>
-</table>
-</div>
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.fib.financebuddy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-products-dark.svg" /><img src="assets/card-products-light.svg" width="32%" alt="Products: Edmit, used by 4,000+ students, and FiB – Finance Buddy on Google Play" /></picture></a>
+<a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-opensource-dark.svg" /><img src="assets/card-opensource-light.svg" width="32%" alt="Open source: 20+ merged PRs to freeCodeCamp; mentored 250+ students" /></picture></a>
+<a href="https://play.google.com/store/apps/developer?id=Sidsmartz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-games-dark.svg" /><img src="assets/card-games-light.svg" width="32%" alt="Games: Capybara Space Quest on Google Play; BeatHop and Pen Fight in development" /></picture></a>
+</p>
 
 <br/>
 
@@ -118,4 +108,8 @@ Open to SDE roles.
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake-dark.svg" /><img src="https://raw.githubusercontent.com/Sidsmartz/Sidsmartz/output/snake.svg" width="100%" alt="Snake eating my contribution graph" /></picture>
+</p>
+
+<p align="center">
+  <img src="https://sidsmartz-views.views-counter.workers.dev/" alt="Profile views" />
 </p>
