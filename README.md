@@ -8,8 +8,8 @@
   <a href="https://sidsportfolio-psi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/siddharth-t-s-a76655248/"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
   <a href="https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3ASidsmartz+is%3Amerged"><img src="https://img.shields.io/badge/freeCodeCamp-15%2B%20merged%20PRs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp merged PRs" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.fib.financebuddy"><img src="https://img.shields.io/badge/Google%20Play-FiB-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="FiB on Google Play" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Sidsmartz&color=36bcf7&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <a href="https://play.google.com/store/apps/developer?id=Sidsmartz"><img src="https://img.shields.io/badge/Google%20Play-Sidsmartz-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Sidsmartz on Google Play" /></a>
+  <img src="https://hits.sh/github.com/Sidsmartz.svg?style=for-the-badge&label=Profile%20views&color=36bcf7" alt="Profile views" />
 </p>
 
 ## 👋 About me
